@@ -35,4 +35,5 @@
     - Can you supply multiple methods of contact incase of comms failures?
     - Can you supply a backup point of contact?
 
-
+- How would you like me to communicate updates and/or emergency security findings?
+    - How often would you like an update?
