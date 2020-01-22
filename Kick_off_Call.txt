@@ -1,0 +1,38 @@
+## Physical Penetration Test Kick-off Discussion/Questions
+
+## Review scope, authorization form
+
+## Questions
+
+- At a high-level, can you please describe the location and the purpose of the building being tested?
+
+- Are you the owner of the building or are you leasing the building from a separate entity?
+    - If not, do we have permission from the building owner to conduct this test?
+
+- Is the building multitenant, in that there are multiple separate entities occupying the space?
+    - Are all of the entities aware and permitting the test or are some aspects out of scope?
+    
+- Do you only lease one portion of a larger building that you don't own? 
+    - If applicable, can you please put the tester on the visitor list?
+    
+- Are there security personnel present?
+
+- Are those security personnel armed?
+    - Is so, they must be notified and permitting of the penetration test. 
+    
+- Are all potential entry methods considered in scope for this assessment? (e.g. roof access, window access, etc.)
+
+- Are there alarms present at the facility?
+    - Who do the alarms alert? If the alarms alert police, please notify and recieve confirmation from the appropriate officials that the penetration test is occuring.
+    
+- Can the tester attempt to pick door locks or circumvent door security mechanisms? 
+
+- Can simple relatively inexpensive things be broken? For example, cheap door knobs or pane glass windows.
+
+- What time is permitted for testing? 
+
+- Will the POC be avaliable during the extent of the testing timeframe? 
+    - Can you supply multiple methods of contact incase of comms failures?
+    - Can you supply a backup point of contact?
+
+
