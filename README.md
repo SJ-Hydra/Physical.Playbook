@@ -1,4 +1,2 @@
 # physical_testing
-These are simply my notes for physical penetration tests. 
-
-Always have system owner(s) permission prior to conducting penetration tests. 
+This is my process for physical security testing for facilities. There are likely to be items not disclosed in the process list (Process.txt) so experience will dictate your engagment. Be sure to carry out the kick-off discussion using the attached questionaire (Kick_off_Call.txt) prior to commencing the test. Always have written permission from the system owner(s) before conducting penetration tests.
